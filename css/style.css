@@ -1,0 +1,19 @@
+h1, h2, h3{
+    font-family: 'Arima Madurai', cursive;
+}
+
+p, a{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nav{
+    height: 8vh;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.2);
+    display:flex;
+    align-items: center;
+    position: sticky;
+}
+
+.jumbotron{
+    background-image: images\LMTR- stock cat in cage.jpg;
+}
