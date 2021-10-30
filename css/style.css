@@ -1,9 +1,9 @@
 h1, h2, h3{
-    font-family: 'Arima Madurai', cursive;
+    font-family: 'Arima Madurai', cursive !important;
 }
 
 p, a{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif !important;
     font-size: 18px;
 }
 
